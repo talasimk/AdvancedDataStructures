@@ -1,0 +1,17 @@
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\HeapTests.deps.json
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\HeapTests.runtimeconfig.json
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\HeapTests.runtimeconfig.dev.json
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\HeapTests.dll
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\HeapTests.pdb
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\AdvancedDataStructures.dll
+D:\AdvancedDataStructures\HeapTests\bin\Debug\netcoreapp2.2\AdvancedDataStructures.pdb
+D:\AdvancedDataStructures\HeapTests\obj\Debug\netcoreapp2.2\HeapTests.csprojAssemblyReference.cache
+D:\AdvancedDataStructures\HeapTests\obj\Debug\netcoreapp2.2\HeapTests.csproj.CoreCompileInputs.cache
+D:\AdvancedDataStructures\HeapTests\obj\Debug\netcoreapp2.2\HeapTests.AssemblyInfoInputs.cache
+D:\AdvancedDataStructures\HeapTests\obj\Debug\netcoreapp2.2\HeapTests.AssemblyInfo.cs
+D:\AdvancedDataStructures\HeapTests\obj\Debug\netcoreapp2.2\HeapTests.csproj.CopyComplete
+D:\AdvancedDataStructures\HeapTests\obj\Debug\netcoreapp2.2\HeapTests.dll
+D:\AdvancedDataStructures\HeapTests\obj\Debug\netcoreapp2.2\HeapTests.pdb

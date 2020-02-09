@@ -1,0 +1,9 @@
+D:\AdvancedDataStructures\AdvancedDataStructures\bin\Debug\netcoreapp2.2\AdvancedDataStructures.deps.json
+D:\AdvancedDataStructures\AdvancedDataStructures\bin\Debug\netcoreapp2.2\AdvancedDataStructures.dll
+D:\AdvancedDataStructures\AdvancedDataStructures\bin\Debug\netcoreapp2.2\AdvancedDataStructures.pdb
+D:\AdvancedDataStructures\AdvancedDataStructures\obj\Debug\netcoreapp2.2\AdvancedDataStructures.csprojAssemblyReference.cache
+D:\AdvancedDataStructures\AdvancedDataStructures\obj\Debug\netcoreapp2.2\AdvancedDataStructures.csproj.CoreCompileInputs.cache
+D:\AdvancedDataStructures\AdvancedDataStructures\obj\Debug\netcoreapp2.2\AdvancedDataStructures.AssemblyInfoInputs.cache
+D:\AdvancedDataStructures\AdvancedDataStructures\obj\Debug\netcoreapp2.2\AdvancedDataStructures.AssemblyInfo.cs
+D:\AdvancedDataStructures\AdvancedDataStructures\obj\Debug\netcoreapp2.2\AdvancedDataStructures.dll
+D:\AdvancedDataStructures\AdvancedDataStructures\obj\Debug\netcoreapp2.2\AdvancedDataStructures.pdb
